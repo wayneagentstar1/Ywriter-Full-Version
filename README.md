@@ -242,4 +242,4 @@ This repository serves as the official landing page for yWriter. The software is
 **Get the most recent version of yWriter today!**
 
 ---
-**Last updated:** 2026-10-13 15:35:46 UTC
+**Last updated:** 2026-10-13 20:59:31 UTC
